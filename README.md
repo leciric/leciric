@@ -26,5 +26,5 @@ I love helping and teaching people, so don't be shy, ask me anything! Outside th
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LeandroCiric-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandrociric/)
-[![Gmail](https://img.shields.io/badge/-lecirics@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lecirics@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-lecirics%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:lecirics@gmail.com)
 [![X](https://img.shields.io/badge/-@lintdev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lintdev)
